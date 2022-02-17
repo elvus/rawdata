@@ -1,0 +1,1127 @@
+[
+    {
+        "Linea_1_1":{
+            "salida":{
+                "primera":[
+                    "Vivienda Yacyretá de Arroyo Porá-Penitenciaría-CONAVI",
+                    "Ruta VI",
+                    "Avda.Gral. Bernardino Caballero",
+                    "calle Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral. Gamarra",
+                    "Avda. Japón",
+                    "calle Aquidaban",
+                    "Avda. Cnel. Luis Irrazabal hasta ex Resguardo de Pacú-Cuá"
+                ],
+                "segunda":[
+                    "Vivienda Yacyretá de Arroyo Porá-Penitenciaría-CONAVI",
+                    "Ruta VI",
+                    "Avda.Gral. Bernardino Caballero",
+                    "calle Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral. Gamarra",
+                    "Avda. Japón",
+                    "calle Aquidaban",
+                    "Agapito Ortíz",
+                    "Próceres de Mayo",
+                    "Avda.Cnel.Luis Irrazabal hasta el ex Resguardo de Pacú-cuá"
+                ],
+                "tercera":[
+                    "Vivienda Yacyretá de Arroyo Porá-Penitenciaría-CONAVI",
+                    "Ruta VI",
+                    "Avda.Gral. Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral. Gamarra",
+                    "Avda.Cnel.Luis Irrazabal",
+                    "Mcal. Francisco Solano López",
+                    "Feria Municipal",
+                    "Avda.Cnel.Luis Irrazabal hasta el Ex Resguardo de Pacu Cua.(Recorrido una vez habilitada la nueva Feria Municipal)"
+                ]
+            },
+            "vueltar":{
+                "primera":[
+                    "Ex Resguardo de Pacu-cua",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "calle Aquidaban",
+                    "a la Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "Vivienda Yacyretá de Arroyo Porá-Penitenciaría-CONAVI"
+                ],
+                "segunda":[
+                    "Ex Resguardo de Pacú cuá, Avda. Cnel. Luis Irrazabal",
+                    "Próceres de Mayo",
+                    "Agapito Ortíz",
+                    "Aquidaban",
+                    "Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "Vivienda Yacyretá de Arroyo Porá-Penitenciaría-CONAVI"
+                ],
+                "tercera":[
+                    "Ex Resguardo de Pacú cuá, Avda. Cnel. Luis Irrazabal",
+                    "Mcal. Francisco Solano López",
+                    "pega la vuelta por la Feria Municipal",
+                    "Avda.Cnel.Luis Irrazabal",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Caballero",
+                    "Ruta VI",
+                    "Vivienda Yacyretá, Arroyo Pora. (Recorrido una vez habilitada la nueva Feria Municipal)"
+                ]
+            },
+            "frecuencias":{
+                "lunes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"10 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "martes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"10 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "miercoles":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"10 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "jueves":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"10 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "viernes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"10 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "sabado":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"10 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "domingo":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "feriados":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "Linea_1_2":{
+            "salida":{
+                "primera":[
+                    "Arroyo Pora",
+                    "El Pinar (frente a la Iglesia)",
+                    "por la calle que conecta a la Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral Gamarra",
+                    "Avda. Japón",
+                    "Aquidaban",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "hasta el ex Resguardo de Pacú cuà"                    
+                ],
+                "segunda":[
+                    "Arroyo Pora",
+                    "El Pinar (frente a la Iglesia)",
+                    "por la calle que conecta a la Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas. Gral Gamarra",
+                    "Avda. Japón",
+                    "Aquidaban",
+                    "Agapito Ortíz",
+                    "Próceres de Mayo",
+                    "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú cuá"                
+                ],
+                "tercera":[
+                    "Arroyo Pora - Distrito de Cambyretá",
+                    "el Pinar Frente a la Iglesia por la calle que conecta a la Ruta VI",
+                    "Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "calle Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral. Gamarra",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Mcal. Francisco S. López",
+                    "pega la vuelta por la Feria Municipal",
+                    "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú-Cuá. (Recorrido una vez habilitada la nueva Feria Municipal)"
+                ]
+            },
+            "vuelta":{
+                "primera":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Aquidaban",
+                    "Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "calle entrada a Arroyo Pora (taller RYSA)",
+                    "Pinar (frente a la Iglesia)"
+                ],
+                "segunda":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Próceres de Mayo",
+                    "Agapito Ortíz",
+                    "Aquidaban",
+                    "Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "calle entrada a Arroyo Pora (taller RYSA)",
+                    "Pinar (frente a la Iglesia)"
+                ],
+                "tercera":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Mcal. Francisco Solano López",
+                    "pega la vuelta por la Feria Municipal",
+                    "Avda.Cnel.Luis Irrazabal",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Caballero",
+                    "Ruta VI",
+                    "calle entrada a Arroyo Pora (taller RYSA)",
+                    "Pinar(frente a la Iglesia). (Recorrido una vez habilitada la nueva Feria Municipal)"
+                ]
+            },
+            "frecuencias":{
+                "lunes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "martes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "miercoles":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "jueves":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "viernes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "sabado":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "domingo":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:30",
+                        "periodo":"30 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:00",
+                        "periodo":"40 minutos"
+                    }
+                },
+                "feriados":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:30",
+                        "periodo":"30 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:00",
+                        "periodo":"40 minutos"
+                    }
+                }
+            }
+        },
+        "Linea_1_3":{
+            "salida":{
+                "primera":[
+                    "Parada Santa María - Ruta VI",
+                    "entrar en el barrio Chaipé por la calle ubicada a la altura de la Comisaría del barrio",
+                    "recorriendo por Chaipe",
+                    "salir a la Ruta VI por la calle que pasa por la Firma INAGRISA - Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas. Gral. Gamarra",
+                    "Avda. Japón",
+                    "Aquidaban",
+                    "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú cuá"
+                ],
+                "segunda":[
+                    "Parada Santa María - Ruta VI",
+                    "entrar en el barrio Chaipé por la calle ubicada a la altura de la Comisaría del barrio",
+                    "recorriendo por Chaipe",
+                    "salir a la Ruta VI por la calle que pasa por la Firma INAGRISA - Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas. Gral. Gamarra",
+                    "Avda. Japón",
+                    "Aquidaban",
+                    "Agapito Ortíz",
+                    "Próceres de Mayo",
+                    "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú cuá"
+                ],
+                "tercera":[
+                    "Parada Santa María - Ruta VI",
+                    "entrar en el barrio Chaipé por la calle ubicada a la altura de la Comisaría del barrio",
+                    "recorriendo por Chaipe",
+                    "salir a la Ruta VI por la calle que pasa por la Firma INAGRISA - Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "calle Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral. Gamarra",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Mcal. Francisco S. López",
+                    "pega la vuelta por la Feria Municipal",
+                    "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú-Cuá. (Recorrido una vez habilitada la nueva Feria Municipal)"
+                ]
+            },
+            "vuelta":{
+                "primera":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Aquidaban",
+                    "Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "Barrio Santa María",
+                    "calle del Seminario pasando frente a la escuela del mismo nombre hasta la parada de Santa María."
+                ],
+                "segunda":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Próceres de Mayo",
+                    "Agapito Ortíz",
+                    "Aquidaban",
+                    "Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "Barrio Santa María",
+                    "Calle del Seminario pasando frente a la escuela del mismo nombre parada Santa María"
+                ],
+                "tercera":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Mcal. Francisco Solano López",
+                    "pega la vuelta por la Feria Municipal",
+                    "Avda.Cnel.Luis Irrazabal",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Caballero",
+                    "Ruta VI",
+                    "Barrio Santa María, Calle del Seminario pasando frente a la escuela del mismo nombre parada Santa María"
+                ]
+            },
+            "frecuencias":{
+                "lunes":{
+                    "diurno":{
+                        "inicio":"05:00",
+                        "fin":"19:00",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "martes":{
+                    "diurno":{
+                        "inicio":"05:00",
+                        "fin":"19:00",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "miercoles":{
+                    "diurno":{
+                        "inicio":"05:00",
+                        "fin":"19:00",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "jueves":{
+                    "diurno":{
+                        "inicio":"05:00",
+                        "fin":"19:00",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "viernes":{
+                    "diurno":{
+                        "inicio":"05:00",
+                        "fin":"19:00",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "sabado":{
+                    "diurno":{
+                        "inicio":"05:00",
+                        "fin":"19:00",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "domingo":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:30",
+                        "periodo":"30 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:00",
+                        "periodo":"40 minutos"
+                    }
+                },
+                "feriados":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:00",
+                        "periodo":"30 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"40 minutos"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "Linea_1_4":{
+            "salida":{
+                "primera": [
+                    "De la parada de Santa María ingresando por la primera calle del barrio Santa María que conduce a la escuela del mismo nombre",
+                    "pasando por la calle del Seminario (Cnel. Bogado) luego bajando por la calle Cambyretá",
+                    "hasta la calle Hohenau y salir por la calle Seminario hasta la Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral Gamarra",
+                    "Avda. Japón",
+                    "Aquidaban",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "hasta el ex Resguardo de Pacú cuà"
+                ],
+                "segunda": [
+                    "De la parada de Santa María ingresando por la primera calle del barrio Santa María que conduce a la escuela del mismo nombre",
+                    "pasando por la calle del Seminario (Cnel. Bogado) luego bajando por la calle Cambyretá",
+                    "hasta la calle Hohenau y salir por la calle Seminario hasta la Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas. Gral Gamarra",
+                    "Avda. Japón",
+                    "Aquidaban",
+                    "Agapito Ortíz",
+                    "Próceres de Mayo",
+                    "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú cuá"
+                ],
+                "tercera":[
+                        "De la parada de Santa María ingresando por la primera calle del barrio Santa María que conduce a la escuela del mismo nombre",
+                        "pasando por la calle del Seminario (Cnel. Bogado) luego bajando por la calle Cambyretá",
+                        "hasta la calle Hohenau y salir por la calle Seminario hasta la Ruta VI",
+                        "Avda. Gral. Bernardino Caballero",
+                        "calle Carlos A. López",
+                        "Capellán Molas",
+                        "Gral. Artigas",
+                        "Gral. Gamarra",
+                        "Avda. Cnel. Luis Irrazabal",
+                        "Mcal. Francisco S. López",
+                        "pega la vuelta por la Feria Municipal",
+                        "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú-Cuá"
+                ]
+            },
+            "vuelta":{
+                "primera":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Aquidaban",
+                    "Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "entrar por la calle de la firma INAGRISA",
+                    "hacer el recorrido por el barrio Chaipe",
+                    "salir a la Ruta VI en la calle a la altura de la Comisaría",
+                    "Parada Santa María"
+                ],
+                "segunda":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda. Cnel. Luis Irrazabal",
+                    "Próceres de Mayo",
+                    "Agapito Ortíz",
+                    "Aquidaban",
+                    "Avda. Japón",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta VI",
+                    "entrar por la calle de la firma INAGRISA",
+                    "hacer el recorrido por el barrio Chaipe",
+                    "salir a la Ruta VI en la calle a la altura de la Comisaría",
+                    "Parada Santa María"
+                ],
+                "tercera":[
+                    "Ex Resguardo de Pacú cuá",
+                    "Avda.Cnel. Luis Irrazabal",
+                    "Mcal. Francisco Solano López",
+                    "pega la vuelta por la Feria Municipal",
+                    "Avda.Cnel.Luis Irrazabal",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Caballero",
+                    "Ruta VI",
+                    "entrar por la calle de la firma INAGRISA",
+                    "hacer el recorrido por el barrio Chaipe",
+                    "salir a la Ruta VI en la calle a la altura de la Comisaría",
+                    "Parada Sta. María"
+                ]   
+            },
+            "frecuencias":{
+                "lunes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"5 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "martes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"5 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "miercoles":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"5 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "jueves":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"5 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "viernes":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"5 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "sabado":{
+                    "diurno":{
+                        "inicio":"04:40",
+                        "fin":"19:30",
+                        "periodo":"5 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:30",
+                        "periodo":"20 minutos"
+                    }
+                },
+                "domingo":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "feriados":{
+                    "diurno":{
+                        "inicio":"06:00",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:30",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "Linea_1_5":{
+            "salida":{
+                "primera":[
+                    "Capitán Miranda hasta el limite con Trinidad",
+                    "Ruta VI",
+                    "Avda. Gral. Bernardino Caballero",
+                    "calle Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas. Gral Gamarra",
+                    "Avda. Japón",
+                    "Aquidaban",
+                    "Agapito Ortíz",
+                    "Próceres de Mayo",
+                    "Avda. Cnel. Luis Irrazabal hasta el ex Resguardo de Pacú cuá"
+                ]
+            },
+            "vuelta":{
+                "primera":[
+                    "Ex Resguardo de Pacú cuá", 
+                    "Avda. Cnel. Luis Irrazabal", 
+                    "Próceres de Mayo", 
+                    "Agapito Ortíz", 
+                    "Aquidaban", 
+                    "Avda. Japón", 
+                    "Capellán Molas", 
+                    "Gral. Artigas", 
+                    "Avda. Gral. Bernardino Caballero", 
+                    "Ruta VI a Capitán Miranda hasta el límite con Trinidad"
+                ]
+            }
+        },
+        "frecuencias":{
+            "lunes":{
+                "diurno":{
+                    "inicio":"05:10",
+                    "fin":"19:00",
+                    "periodo":"20 minutos"
+                },
+                "nocturno":{
+                    "inicio":"19:00",
+                    "fin":"23:00",
+                    "periodo":"60 minutos"
+                }
+            },
+            "martes":{
+                "diurno":{
+                    "inicio":"05:10",
+                    "fin":"19:00",
+                    "periodo":"20 minutos"
+                },
+                "nocturno":{
+                    "inicio":"19:00",
+                    "fin":"23:00",
+                    "periodo":"60 minutos"
+                }
+            },
+            "miercoles":{
+                "diurno":{
+                    "inicio":"05:10",
+                    "fin":"19:00",
+                    "periodo":"20 minutos"
+                },
+                "nocturno":{
+                    "inicio":"19:00",
+                    "fin":"23:00",
+                    "periodo":"60 minutos"
+                }
+            },
+            "jueves":{
+                "diurno":{
+                    "inicio":"05:10",
+                    "fin":"19:00",
+                    "periodo":"20 minutos"
+                },
+                "nocturno":{
+                    "inicio":"19:00",
+                    "fin":"23:00",
+                    "periodo":"60 minutos"
+                }
+            },
+            "viernes":{
+                "diurno":{
+                    "inicio":"05:10",
+                    "fin":"19:00",
+                    "periodo":"20 minutos"
+                },
+                "nocturno":{
+                    "inicio":"19:00",
+                    "fin":"23:00",
+                    "periodo":"60 minutos"
+                }
+            },
+            "sabado":{
+                "diurno":{
+                    "inicio":"05:10",
+                    "fin":"19:00",
+                    "periodo":"20 minutos"
+                },
+                "nocturno":{
+                    "inicio":"19:00",
+                    "fin":"23:00",
+                    "periodo":"60 minutos"
+                }
+            },
+            "domingo":{
+                "diurno":{
+                    "inicio":"06:00",
+                    "fin":"19:30",
+                    "periodo":"20 minutos"
+                }
+            },
+            "feriados":{
+                "diurno":{
+                    "inicio":"06:00",
+                    "fin":"19:30",
+                    "periodo":"20 minutos"
+                }
+            }
+        }
+    }
+]
+
+ITINERARIOS PARA LA LÍNEA No. 2.- 
+Línea   2 -1
+Recorrido salida: Vivienda Yacyretá – Arroyo Porá, Ruta VI, calle Posadas, Eduardo Chamorro, Francisco Rodríguez, Carlos A. López, Avda. Gral. Bernardino Caballero, Independencia Nacional, Jorge Memmel, Carlos A. López, Capellan Molas, Gral. Artigas, Avda. Gral. Bernardino Caballero, Ruta I, calle 30 de noviembre(escuela Kennedy), camino vecinal hasta la Comisaría del barrio Mboi-Caé.----------------------------------------------
+Recorrido vuelta: Comisaría barrio Mboi-Caé, camino vecinal, Calle 30 de noviembre, Ruta I, Avda. Gral. Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Lomas Valentinas, Calle Posadas, Mcal Estigarribia, Roque Bojanovich, Lomas Valentinas, Francisco Rodríguez, Eduardo Chamorro, Calle Posadas, Ruta VI, Vivienda Yacyretá, Arroyo Pora.-----------------------------------------------------------------------------    
+Frecuencias:    Días: De lunes a sábado
+De 05:30 a 19:30 horas, cada 20 minutos.
+De 19:30 a 23:30 horas, cada 30 minutos.
+Días: Domingo y feriados
+De 05:50 a 19:50 horas, cada 40 minutos.
+
+ITINERARIOS PARA LA LÍNEA No. 3.-
+Recorrido A) Salida Santa Rosa Guabychu, Distrito de San Juan del Paraná: Km. 18, Ruta Nº 1, Avda. Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral. Bernardino  Caballero, Ruta Nº 1, Km. 18, entrada Santa Rosa de Guabychu Distrito de San Juan del Paraná.----------------------------------------------------------
+Obs.: Dos frecuencias por día.-----------------------------------------------------------------------------
+Recorrido A1) Salida Uru sapucay: Santo Domingo Centro, Las Delicias Km. 12, Ruta Nº 1, Bº Conavi Km. 10, Avda. Gral.  Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta.----------------------------------------------------------- 
+Vuelta: Salida del Distrito de Cambyreta por Ruta 14, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral. Bernardino Caballero, Ruta Nº 1, Conavi Km. 10, Las Delicias Km. 12, Santo Domingo Centro, Uru sapucay.------------------------------------------------------------------------------------------------------------
+Obs.: Tres frecuencias por día.----------------------------------------------------------------------------
+
+Recorrido B) Salida San Miguel Santo Domingo: Santo Domingo Centro, Las Delicias Km. 12, Ruta Nº 1, Avda. Gral. Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta.-----------------------------------------------------------------------------
+Vuelta:Salida del Distrito de Cambyreta por Ruta 14, Avda.Irrazabal,calles Jorge Memmel Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.B. Caballero, Ruta Nº 1, Conavi Km. 10, Las Delicias Km. 12, Santo Domingo Centro, San Miguel Santo Domingo.-----------
+Frecuencias:    Días: De lunes a sábado
+De 05:30 a 08:00 horas, cada 10 minutos.
+De 08:00 a 19:00 horas, cada 15 minutos.
+De 19:00 a 23:00 horas, cada 20 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 23:00 horas, cada 60 minutos
+
+Recorrido C) Salida Conavi Km. 10, Ruta Nº 1, Avda.Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta.------------------------------- 
+Vuelta: Salida del Distrito de Cambyreta por Ruta 1, Avda.Cnel.Luis Irrazabal, calles Capellán Molas, Avda. Japón, Honorio González, Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta Nº 1, Conavi Km. 10. 
+Frecuencias:    Días: De lunes a sábado
+De 05:30 a 08:00 horas, cada 10 minutos.
+De 08:00 a 19:00 horas, cada 15 minutos.
+De 19:00 a 23:00 horas, cada 20 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 23:00 horas, cada 60 minutos
+
+Recorrido D) Salida Distrito de San Juan del Paraná, Ruta Nº 1, Avda.Gral. Bernardino  Caballero, calles Carlos A. López, Capellán  Molas, Gral, Artigas, Avda.Gral. Bernardino Caballero, Ruta Nº 1, Km. 10, entrada Distrito de San Juan del Paraná.--------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 19:00 horas, cada 30 minutos.
+De 19:00 a 22:30 horas, cada 60 minutos.
+Días: Domingo y  feriados
+De 06:30 a 19:00 horas, cada 60 minutos
+De 19:00 a 23:00 horas, cada 90 minutos
+Recorrido E) Salida Distrito de San Juan del Paraná, Km. 8-Azotea, Ruta 1 Avda. Gral. Bernardino Caballero, calles Carlos A.López, Capellán Molas, Gral.Artigas,Avda.Gral. Ber-nardino Caballero, Ruta Nº 1, Km. 8 - Azotea, entrada al Distrito de San Juan del Paraná Frecuencias:    Días: De lunes a sábado
+De 05:00 a 19:00 horas, cada 20 minutos.
+De 19:00 a 22:30 horas, cada 60 minutos.
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 23:00 horas, cada 60 minutos
+
+Recorrido F) Salida Ita Paso, Bº Arrabales, Ruta Nº 1, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Miguel Centro.-----------------------------------
+Vuelta: Salida por Ruta 14 del Distrito de Cambyreta, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral.Bernardino  Caballero, Ruta Nº 1, Barrio Los Arrabales, Ita Paso.--------------------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 20:00 horas, cada 20 minutos.
+De 20:00 a 23:00 horas, cada 60 minutos.
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 23:00 horas, cada 60 minutos
+
+Recorrido G) Salida Parada Línea Nº 3: Avda. Abraham Mallorquín, Ruta Nº 1, entrada al barrio Quiteria, Conavi Bo. Quiteria, Virgencita de la Piedra, Avda. Ucrania, Bo. Caaguy Rory, Bº San Pedro, Ruta Nº 1, Avda. Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Irrazabal, calle Curupayty, entrada Distrito de Cambyreta al Bº Jardín.---------------------------------------------------------------
+Vuelta: Salida Bº Jardín - Distrito de Cambyreta, calles Curupayty, Waldino Lovera, Mñor. Wiessen, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral.Bernardino Caballero,  Ruta Nº 1, Bº San Pedro, Bo. Caaguy Rory, Virgencita de la Piedra, Conavi Quiteria, Bo. Quiteria, Ruta Nº 1 Hospital Pediátrico, Parada Línea Nº 3.--------------------------------------------------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 30 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 23:00 horas, cada 60 minutos
+
+Recorrido H) Salida Parada Línea Nº 3: Avda. Abraham Mallorquín, Ruta Nº 1, entrada al barrio Quiteria, Conavi Bo.Quiteria, Virgencita de la Piedra, Avda. Ucrania, Bo. Caaguy Rory, Bº San Pedro, Ruta Nº 1, Avda. Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel.Luis Irrazabal, Ruta Nº 14, entrada Distrito de Cambyreta, San Miguel Barrio Espíritu Santo, San Juan, San Miguel. 
+Vuelta: Bo. San Juan, Distrito de Cambyreta, Ruta Nº 14, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero,  Ruta Nº 1, Bº San Pedro, Bo. Caaguy Rory, Virgencita de la Piedra, Conavi Bo. Quiteria, Ruta Nº 1 Hospital Pediátrico, Parada Línea Nº 3.-------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 30 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 23:00 horas, cada 60 minutos
+
+Recorrido I) Salida Parada Línea Nº 3: Avda. Abraham Mallorquín, Ruta Nº 1, Avda. Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel.Luis Irrazabal, Ruta Nº 14, entrada al Distrito de Cambyreta, San Miguel - San Juan.-----------------------------------------------------------------------------------------------
+Vuelta: Por Ruta Nº 14 del Bo. San Miguel-San Juan de Cambyreta, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos.A. López, Capellán Molas, Gral.Artigas, Avda.Gral. Bernardino Caballero, Ruta Nº 1, Bº San Pedro, Bo. Caaguy Rory, Avda.Ucrania, Virgen-cita de la Piedra, Conavi Bo. Quiteria, Ruta Nº 1, Hospital Pediátrico, Parada Línea Nº 3.-- Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 30 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Recorrido J) Salida Parada Línea Nº 3 Avda. Abraham Mallorquín, Ruta Nº 1, Avda.Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel.Luis Irrazabal, calle Curupayty, entrada al distrito de Cambyreta, San Miguel - Bº Jardín.------------------------------------------------------------------------------------------------
+Vuelta: De San Miguel - Bº Jardín, distrito de Cambyreta, calles Curupayty, Waldino Lovera, Monseñor Wiessen, Avda. Irrazabal, Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral. Bernardino Caballero, Ruta Nº 1, Bº San Pedro, Caaguy Rory, Avda. Ucrania, Virgencita de la Piedra, Conavi Bo. Quiteria, Ruta Nº 1, Hospital Pediátrico Municipal, Parada Línea Nº 3.------------------------------------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 30 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Recorrido K) Salida vivienda de Yacyreta - Bº San Pedro, Bº San Pedro, Ruta Nº 1, Avda.Bernardino Caballero, Carlos A.López, Capellán Molas, Gral.Artigas, Gral. Cabañas, Avda.Cnel.Luis Irrazabal, calle Curupayty, entrada al distrito de Cambyreta a San Miguel Bº Jardín.-----------------------------------------------------------------------------------------------------------
+Vuelta: Barrio Jardín de Cambyreta,calles Curupayty,Waldino Lovera, Monseñor Wiessen
+Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta Nº 1,  Bº San Pedro,Viviendas de Yacyreta. 
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 30 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Recorrido L) Salida Parada Línea Nº 3, Avda. Abraham Mallorquín, Colegio Politécnico, Villa del Maestro, Ruta Nº 1, Avda. Ucrania, Bo. Caaguy Rory, Bº San Pedro, Ruta Nº 1, Avda.Bernardino Caballero, Carlos A.López, Capellán Molas, Gral.Artigas, Gral.Cabañas, Avda.Cnel.Luis Irrazabal, Capellán Molas, Avda. Japón, calle 29 de Septiembre, Ruta Nº 14 entrada Distrito de Cambyreta al Bo. San Miguel-San Juan.-------------------------------------
+Vuelta: Bo.San Miguel-San Juan por Ruta Nº 14 del Distrito de Cambyreta, Avda.Cnel. Luis Irrazabal, Avda. Japón, calles Tte.Honorio González, Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta Nº 1, Villa del Maestro, Colegio Politécnico, Hospital Pediátrico Municipal hasta parada Línea Nº 3.-------- 
+Frecuencias:  Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 30 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Recorrido M) Salida Parada Línea Nº 3: Avda. Abraham Mallorquín, Colegio Politécnico, Villa del Maestro, Ruta Nº 1, Avda. Ucrania, Caaguy Rory, Bº San Pedro, Ruta Nº 1, Avda. Gral. Bernardino Caballero, Carlos A.López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel.Luis Irrazabal,Curupayty,entrada distrito de Cambyreta al Bo.San Miguel-Jardín Vuelta: Bo.San Miguel-Jardín, salida Distrito de Cambyreta calles Curupayty,Waldino Lovera, Monseñor Wiessen, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta Nº 1, Villa del Maestro, Colegio Politécnico, Hospital Pediátrico Municipal, hasta parada Línea Nº 3.------- 
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 30 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Recorrido N) Salida Bº Curupayty, Bº San Pedro, Ruta Nº 1 Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda. Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Miguel Centro.---------------------
+Vuelta: Bo. San Miguel-Centro por Ruta 14 del Distrito de Cambyreta, Avda.Cnel.Luis  Irrazabal, calles Jorge Memmel, Carlos A.López, Capellán Molas, Gral.Artigas, Avda.Gral. Bernardino Caballero, Ruta Nº 1, entrada al Bº San Pedro, Vivienda Yacyreta del Bº San Pedro, Bº Curupayty.-------------------------------------------------------------------------------------------- 
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 45 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Recorrido Ñ) Salida Cerrito, Cuatro Potrero, San Antonio Ypecurú, Bº Curupayty, Bº Caaguy Rory, Avda.Ucrania, Ruta Nº 1, Avda.Gral.Bernardino Caballero, Carlos A. López, Gral. Artigas, Avda.Gral. Caballero, Ruta Nº 1 y vuelve por su mismo Itinerario de salida.-- 
+Frecuencias:    Días: De lunes a domingo y feriados
+06:00 horas     09:00 horas
+13:00 horas     18:00 horas
+
+Recorrido O) Salida San Antonio Ypecurú, Tres Bocas, Vivienda Conavi de Bo.Quiteria, Ruta Nº 1, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Bernardino Caballero, Ruta Nº 1 y vuelve por su mismo Itinerario de salida.--
+Frecuencias:    Días: De lunes a domingo y feriados
+06:00 horas     09:00 horas
+13:00 horas     18:00 horas
+
+Recorrido P) Salida Olería Bº Curupayty, Bº San Pedro, Vivienda San Pedro, Ruta Nº 1, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral.Cabañas, Avda.Cnel.Luis Irrazabal,entrada por Ruta 14 con destino al Bº San Miguel.  
+Vuelta: Por Ruta 14 del Bo.San Miguel-distrito de Cambyreta, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel,Carlos A.López, Capellán Molas, Gral.Artigas, Avda.Gral.Bernardino  Caballero, Ruta Nº 1, entrada al Bº San Pedro, Vivienda Yacyreta del Bº San Pedro, Bº Curupayty,  Olería del mismo barrio.------------------------------------------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 45 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Recorrido Q) Salida distrito de Cambyreta, por Ruta Nº 14, Avda.Cnel. Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral. Bernardino Caballero, Ruta 1, Bº San Pedro, Vivienda Yacyreta de San Pedro, Bº Curupayty, regresa por el mismo itinerario al Distrito de Cambyreta.---------------------------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:00 a 08:00 horas, cada 10 minutos.
+De 08:00 a 20:00 horas, cada 15 minutos.
+De 20:00 a 22:30 horas, cada 45 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 20 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+ITINERARIOS PARA LA LÍNEA No. 4.-
+Salida-Recorrido 1: Desde la parada del barrio San Isidro, calle Tupasy Rape por Tres Bocas, Pradera Alta, Santa Librada, Capilla San Isidro, Barrio Fátima, calle Tupasy Rape, Avda. Central, Rotonda, Vivienda Yacyreta Buena Vista: Avenida Perimetral Sur, Avda. Moisés Bertoni, calles Trinidad Ramírez, San José, Avda. San Roque González, calle prolongación de la Avda. San Blas, calle Próceres de Mayo, Avda.Cnel. Luis Irrazabal, calles Fulgencio Yegros, Padre Winkel, Capellán Molas, General Artigas, Avda.Gral. Bernardino Caballero, Ruta VI, calles Faustino Ríos, Jóvenes por la Democracia, Dr. Luis María Argaña, Avda. Cnel. Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Sargento Reverchon, Avda. Cnel.Luis Irrazabal.--------------------------------------------------------- 
+Vuelta: Avda.Cnel.Luis Irrazabal, calles Domingo Robledo, Cuarta Proyectada, Luis María Argaña, Jóvenes por la Democracia, Faustino Ríos, Ruta VI, Avda.Gral.Bernardino Caba-llero, Carlos A.López, Capellán Molas, Gral.Artigas,Gral.Gamarra,Pte.González, Fulgencio Yegros, Avda.Cnel. Luis Irrazabal, Procerés de Mayo, calle prolongación de Avda. San Blas, Avda. San Roque González, calles San José, Trinidad Ramírez, Avda. Moisés Bertoni, Avda. Perimetral Sur, Rotonda, calle Tupasy Rape, Barrio Fátima, Capilla San Isidro, Santa Librada, Pradera Alta por Tres Bocas,  hasta parada del barrio San Isidro.----
+Frecuencias:    Días: Lunes a sábado
+De 04:20 a 06:00 horas, cada 15 minutos.
+De 06:00 a 19:00 horas, cada 12 minutos.
+De 19:00 a 23:00 horas, cada 30 minutos. 
+Días: Domingo y feriados
+De 06:00 a 23:00 horas, cada 30 minutos
+
+Salida-Recorrido 2: Desde la parada del barrio San Isidro, calle Tupasy Rape por Tres Bocas, Pradera Alta, Santa Librada, Capilla San Isidro, calle Tupasy Rape, Avda. Central, Rotonda,Vivienda Yacyretá Buena Vista, Avda.perimetral Sur, Avda.Moisés Bertoni, calles Trinidad Ramírez, San José, Avda. San Roque González, calle prolongación de la Avda. San Blas,calle Próceres de Mayo,Avda.Cnel.Luis Irrazabal,calles Fulgencio Yegros, Padre Winkel, Capellán Molas, General Artigas, Avda.Gral. Bernardino Caballero, Ruta VI, calles Faustino Ríos,Jóvenes por la Democracia,Dr.Luis María Argaña,Avda.Cnel. Luis Irrazabal, calles Jorge Memmel, Carlos A.López, Sargento Reverchon, Avda. Cnel. Luis Irrazabal.--- 
+Vuelta: Avda.Cnel.Luis Irrazabal, calles Domingo Robledo, Cuarta Proyectada, Dr. Luis María Argaña, Jóvenes por la Democracia, Faustino Ríos, Ruta VI, Avda.Gral. Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Gamarra, Pte. González, Fulgencio Yegros, Avda.Cnel.Luis Irrazabal, Próceres de Mayo, calle prolongación Avda. San Blas, Avda. San Roque González, calles San José, Trinidad Ramírez, Avda. Moisés Bertoni, Avda.Perimetral Sur, Rotonda, calle Tupasy Rape, Capilla San Isidro, calle Tupasy Rape por Tres Bocas, Pradera Alta, Santa Librada hasta parada San Isidro.---------
+Frecuencias:    Días: Lunes a sábado
+De 04:20 a 06:00 horas, cada 15 minutos.
+De 06:00 a 19:00 horas, cada 12 minutos.
+De 19:00 a 23:00 horas, cada 30 minutos. 
+Días: Domingo y feriados
+De 06:00 a 23:00 horas, cada 30 minutos
+
+Salida-Recorrido 3: Santuario de la Virgen de Itacua, calle Tupasy Rape, Tres Bocas, Capilla San Isidro, Barrio Fátima, calle Tupasy Rape, Avda. Central, Rotonda, Vivienda Yacyretá Buena Vista: Avda. Perimetral Sur, Avda. Moisés Bertoni, calles Trinidad Ramírez, San José, Avda, San Roque González, calle prolongación Avda. San Blas, calle Próceres de Mayo, Avda.Cnel.Luis Irrazabal, calles Fulgencio Yegros, Padre Winkel, Capellán Molas, Gral. Artigas, Avda. Gral.Bernardino Caballero, Ruta VI, calles Faustino Ríos, Jóvenes por la Democracia, Dr. Luis María Argaña, Avda.Cnel.Luis Irrazabal, Jorge Memmel, Carlos A. López, Sargento Reverchon, Avda.Cnel.Luis Irrazabal, calles Domingo Robledo, Cuarta Proyectada, Luis María Argaña, Jóvenes por la Democracia, Faustino Ríos, Ruta VI, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Gamarra, Pte. González, Fulgencio Yegros, Avda.Cnel. Luis Irrazabal, calles Próceres de Mayo, prolongación Avda. San Blas, Avda. San Roque González, calles San José, Trinidad Ramírez, Avda. Moisés Bertoni, Avda. Perimetral Sur, Rotonda, calle Tupasy Rape, Barrio Fátima, Capilla San Isidro, calle Tupasy Rape por Tres Bocas, Santuario a la Virgen de Itacua.------------------------------------------------------------------------------
+Frecuencias:    Días: Lunes a sábado
+De 06:00 a 16:00 horas, cada 60 minutos.
+Días: Domingo y feriados
+Dos frecuencias: 06:00 y 15:00 horas
+
+Salida-Recorrido 4: Liceo San Blas - Independencia, Pradera Alta, Santa Librada, Capilla San Isidro, Barrio Fátima, calle Tupasy Rape, Avda. Central, Rotonda, Vivienda Yacyretá Buena Vista: Avda. Perimetral Sur, Avda.Moisés Bertoni, calles Trinidad Ramírez, San José, Avda. San Roque González, calle prolongación Avda. San Blas, calle Próceres de 
+Mayo, Avda.Cnel.Luis Irrazabal, Fulgencio Yegros, Padre Winkel, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta VI, calles Faustino Ríos, Jóvenes por la Democracia, Dr. Luis María Argaña, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Sargento Reverchon, Avda.Cnel.Luis Irrazabal, calles Domingo Robledo, Cuarta Proyectada, Luis María Argaña, Jóvenes por la Democracia, Faustino Ríos, Avda. Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Gamarra, Pte. González, Fulgencio Yegros, Ruta Internacional a Pacu Cua, Próceres de Mayo, Prolongación Avda. San Blas, Avda. San Roque González, calles San José, Trinidad Ramírez, Avda. Moisés Bertoni, Avda. Perimetral Sur, Rotonda, calle Tupasy Rape, Barrio Fátima, Capilla San Isidro, Santa Librada, Pradera Alta, Liceo San Blas, Independencia.------------------------------
+Frecuencias:    Días: Lunes a sábado
+De 06:00 a 16:00 horas, cada 60 minutos.
+Días: Domingo y feriados
+Dos frecuencias: 06:00 y 15:00 horas
+
+ITINERARIOS LÍNEA No. 5.-
+Salida - Recorrido 1: Distrito de San Juan del Paraná, Ruta N° 1, Avda. Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta N° 1 - Km 10, entrada al Distrito San Juan del Paraná.--------------------------------------------------------------
+Frecuencias:    Días: Lunes a sábado
+De 05:00 a 19 horas cada 20 minutos.
+De 19:00 a 22:30 cada 60 minutos
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Salida - Recorrido 2: Santa Rosa Guabiyu, Distrito de San Juan del Paraná, Kilometro 18, Ruta N° 1, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta N°1 – Km. 18, entrada a Santa Rosa Guabiyu Distrito San Juan del Paraná, Distrito San Juan del Paraná-Km. 8 Azotea, Ruta N°1, Avda. Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas. Avda. Gral. Bernardino Caballero, Ruta N° 1 – Km. 8 - Azotea, entrada al Distrito de San Juan del Paraná.---------------------------------------------------------------------------------------
+Frecuencias:    Días: Lunes a sábado
+De 05:00 a 19:00 horas cada 20 minutos
+De 19:00  a 22:30 cada 60 minutos.
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 22:30 horas, cada 60 minutos
+
+Salida - Recorrido 3: Conavi Ruta N°1-Km.10, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas. Gral. Gamarra, Avda.Cnel.Luis Irrazabal, Avda.San Roque Gonzàlez, Vivienda Yacyretá-barrio Buena Vista, Barrio Fátima, Pradera Alta, Barrio Fátima, Vivienda Yacyretá-Barrio Buena Vista, Avda. San Roque González, Avda.Cnel.Luis Irrazabal, calle Capitán Caballero, Avda. Japón, calles Teniente Honorio González, Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral. Bernardino Caballero, Ruta N° 1, Conavi Km 10.--------------------------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 05:30 a 08:00 horas, cada 10 minutos.
+De 08:00 a 19:00 horas, cada 15 minutos.
+De 19:00 a 23:00 horas, cada 20 minutos. 
+Días: Domingo y  feriados
+De 05:30 a 19:00 horas, cada 30 minutos
+De 19:00 a 23:00 horas, cada 60 minutos
+
+Salida – Recorrido 4: Ita Paso, Barrio Arrabales, Ruta N° 1, Avda. Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas. Gral. Cabañas, Avda. Irrazabal, Calle Curupayty, entrada a Distrito de Cambyretá con destino al barrio Jardín. 
+Vuelta: Calle Curupayty, Avda.Cnel.Luis Irrazabal, Monseñor Wissen, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta N°1, Barrio Arrabales, Ita Paso.----------------------------------------------------------------------------------------------  
+Frecuencias:    Días: De lunes a sábado
+De 04:50 a 20:00 horas, cada 20 minutos.
+De 20:00 a 23:00 horas, cada 60 minutos.
+Días: Domingo y  feriados
+De 05:30 a 20:00 horas, cada 30 minutos
+De 20:00 a 23:00 horas, cada 60 minutos
+
+Salida – Recorrido 5: Barrio Curupayty, Barrio San Pedro, Ruta N°1, Avda.Gral. Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda. Cnel. Luis Irrazabal, entrada Ruta 14 con destino a Barrio La Amistad.------------------ 
+Vuelta: Salida por Ruta 14 Distrito de Cambyretá, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas. Avda.Gral.Bernardino Caballero, Ruta N°1, entrada al Barrio San Pedro, Vivienda Yacyretá del Barrio San Pedro, Barrio Curupayty.----------------------------------------------------------------------------------------------------------
+Frecuencias:    Días: De lunes a sábado
+De 04:50 a 22:00 horas, cada 20 minutos.
+Días: Domingo y  feriados
+De 05:30 a 22:00 horas, cada 40 minutos
+
+Salida-Recorrido 6: Barrio Caaguy Rory, Barrio San Pedro, Vivienda San Pedro, Ruta N°1, Avda.Gral.Bernardino Caballero, calles Carlos A.López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel.Luis Irrazabal, entrada Ruta 14 con destino al Distrito de Cambyretá, al barrio Santa Librada.--------------------------------------------------------------------
+Vuelta: Salida a Ruta 14, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A.López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta N°1, entrada barrio San Pedro, Vivienda Yacyretá del barrio San Pedro.--------------------------------------------------- 
+Frecuencias:    Días: De lunes a sábado
+De 04:50 a 22:00 horas, cada 20 minutos.
+Días: Domingo y  feriados
+De 05:30 a 22:00 horas, cada 40 minutos
+
+Salida-Recorrido 7: Olería Barrio Curupayty del Barrio San Pedro, Vivienda San Pedro, Ruta N°1, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel.Luis Irrazabal, entrada a Ruta 14 con destino al barrio Los Maestros-Distrito de Cambyretá.----------------------------------------------------------------------- 
+Vuelta: Ruta 14 del Distrito de Cambyretá, Avda.Cnel.Luis Irrazabal,calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta N°1, entrada Barrio San Pedro, Vivienda Yacyretá del Barrio San Pedro, Barrio Curupayty, hasta la Olería del mismo barrio.----------------------------------------------------------------------------- 
+Frecuencias:    Días: De lunes a sábado
+De 04:50 a 22:00 horas, cada 20 minutos.
+Días: Domingo y  feriados
+De 05:30 a 22:00 horas, cada 40 minutos
+Salida – Recorrido 8: Cerrito, Cuatro Potrero, San Antonio Ypecuru, Barrio Curupayty, Barrio Caaguy Rory, Avda. Ucrania, Ruta N°1, Avda.Gral.Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta N°1, Avda. Ucrania, Barrio Caaguy Rory, Barrio Curupayty, San Antonio Ypecuru, Cuatro Potrero, Cerrito.---------------------------------------------------------------------------------------------------
+Frecuencias:    Días: De lunes a domingo y feriados
+06:00 horas     09:00 horas
+13:00 horas     18:00 horas
