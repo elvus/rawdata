@@ -42,7 +42,7 @@
                     "Avda.Cnel.Luis Irrazabal hasta el Ex Resguardo de Pacu Cua.(Recorrido una vez habilitada la nueva Feria Municipal)"
                 ]
             },
-            "vueltar":{
+            "vuelta":{
                 "primera":[
                     "Ex Resguardo de Pacu-cua",
                     "Avda. Cnel. Luis Irrazabal",
@@ -863,36 +863,360 @@
                 }
             }
         }
+    },
+    {
+        "Linea_2_1":{
+            "salida":[
+                "Vivienda Yacyretá - Arroyo Porá",
+                "Ruta VI",
+                "calle Posadas",
+                "Eduardo Chamorro",
+                "Francisco Rodríguez",
+                "Carlos A. López",
+                "Avda. Gral. Bernardino Caballero",
+                "Independencia Nacional",
+                "Jorge Memmel",
+                "Carlos A. López",
+                "Capellan Molas",
+                "Gral. Artigas",
+                "Avda. Gral. Bernardino Caballero",
+                "Ruta I",
+                "calle 30 de noviembre(escuela Kennedy)",
+                "camino vecinal hasta la Comisaría del barrio Mboi-Caé"
+            ],
+            "vuelta":[
+                "Comisaría barrio Mboi-Caé",
+                "camino vecinal",
+                "Calle 30 de noviembre",
+                "Ruta I",
+                "Avda. Gral. Bernardino Caballero",
+                "Carlos A. López",
+                "Capellán Molas",
+                "Gral. Artigas",
+                "Gral. Cabañas",
+                "Lomas Valentinas",
+                "Calle Posadas",
+                "Mcal Estigarribia",
+                "Roque Bojanovich",
+                "Lomas Valentinas",
+                "Francisco Rodríguez",
+                "Eduardo Chamorro",
+                "Calle Posadas",
+                "Ruta VI",
+                "Vivienda Yacyretá",
+                "Arroyo Pora"
+            ],
+            "frecuencias":{
+                "lunes":{
+                    "diurno":{
+                        "inicio":"05:30",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "martes":{
+                    "diurno":{
+                        "inicio":"05:30",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "miercoles":{
+                    "diurno":{
+                        "inicio":"05:30",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "jueves":{
+                    "diurno":{
+                        "inicio":"05:30",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "viernes":{
+                    "diurno":{
+                        "inicio":"05:30",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "sabado":{
+                    "diurno":{
+                        "inicio":"05:30",
+                        "fin":"19:30",
+                        "periodo":"20 minutos"
+                    },
+                    "nocturno":{
+                        "inicio":"19:00",
+                        "fin":"23:00",
+                        "periodo":"30 minutos"
+                    }
+                },
+                "domingo":{
+                    "diurno":{
+                        "inicio":"05:50",
+                        "fin":"19:50",
+                        "periodo":"40 minutos"
+                    }
+                },
+                "feriados":{
+                    "diurno":{
+                        "inicio":"05:50",
+                        "fin":"19:50",
+                        "periodo":"40 minutos"
+                    }
+                }
+            }
+        },
+        "Linea_3":{
+            "Recorridos":[{
+                "A":{
+                    "salida":[ 
+                            "Salida Santa Rosa Guabychu",
+                            "Distrito de San Juan del Paraná: Km. 18",
+                            "Ruta Nº 1",
+                            "Avda. Gral. Bernardino Caballero",
+                            "calles Carlos A. López",
+                            "Capellán Molas",
+                            "Gral. Artigas",
+                            "Avda. Gral. Bernardino  Caballero",
+                            "Ruta Nº 1",
+                            "Km. 18",
+                            "entrada Santa Rosa de Guabychu Distrito de San Juan del Paraná"
+                        ],
+                    "frecuencia": "Dos veces al día"
+                },
+                "A1":{
+                    "salida":[
+                        "Salida Uru sapucay Santo Domingo Centro",
+                        "Las Delicias Km. 12",
+                        "Ruta Nº 1",
+                        "Bº Conavi Km. 10",
+                        "Avda. Gral.  Bernardino Caballero",
+                        "Carlos A. López",
+                        "Capellán Molas",
+                        "Gral. Artigas",
+                        "Gral. Cabañas",
+                        "Avda.Cnel. Luis Irrazabal",
+                        "entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta"
+                    ],
+                    "vuelta":[
+                        "Salida del Distrito de Cambyreta por Ruta 14",
+                        "Avda.Cnel.Luis Irrazabal",
+                        "calles Jorge Memmel",
+                        "Carlos A. López",
+                        "Capellán Molas",
+                        "Gral. Artigas",
+                        "Avda. Gral. Bernardino Caballero",
+                        "Ruta Nº 1",
+                        "Conavi Km. 10",
+                        "Las Delicias Km. 12",
+                        "Santo Domingo Centro",
+                        "Uru sapucay"
+                    ],
+                    "frecuencia": "Tres veces al día"
+                }
+            },
+            {
+                "salida": ["Santo Domingo Centro",
+                    "Las Delicias Km. 12",
+                    "Ruta Nº 1",
+                    "Bº Conavi Km. 10",
+                    "Avda. Gral.  Bernardino Caballero",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Gral. Cabañas",
+                    "Avda.Cnel. Luis Irrazabal",
+                    "entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta"
+                ],
+                "vuelta": ["Salida del Distrito de Cambyreta por Ruta 14",
+                    "Avda.Cnel.Luis Irrazabal",
+                    "calles Jorge Memmel",
+                    "Carlos A. López",
+                    "Capellán Molas",
+                    "Gral. Artigas",
+                    "Avda. Gral. Bernardino Caballero",
+                    "Ruta Nº 1",
+                    "Conavi Km. 10",
+                    "Las Delicias Km. 12",
+                    "Santo Domingo Centro",
+                    "Uru sapucay"
+                ],
+                "frecuencia":{
+                    "lunes":{
+                        "diurno":[
+                            {
+                                "inicio":"05:30",
+                                "fin":"08:00",
+                                "periodo":"10 minutos"
+                            },
+                            {
+                                "inicio":"08:00",
+                                "fin":"19:00",
+                                "periodo":"15 minutos"
+                            }
+                        ],
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"20 minutos"
+                        }
+                    },
+                    "martes":{
+                        "diurno":[
+                            {
+                                "inicio":"05:30",
+                                "fin":"08:00",
+                                "periodo":"10 minutos"
+                            },
+                            {
+                                "inicio":"08:00",
+                                "fin":"19:00",
+                                "periodo":"15 minutos"
+                            }
+                        ],
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"20 minutos"
+                        }
+                    },
+                    "miercoles":{
+                        "diurno":[
+                            {
+                                "inicio":"05:30",
+                                "fin":"08:00",
+                                "periodo":"10 minutos"
+                            },
+                            {
+                                "inicio":"08:00",
+                                "fin":"19:00",
+                                "periodo":"15 minutos"
+                            }
+                        ],
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"20 minutos"
+                        }
+                    },
+                    "jueves":{
+                        "diurno":[
+                            {
+                                "inicio":"05:30",
+                                "fin":"08:00",
+                                "periodo":"10 minutos"
+                            },
+                            {
+                                "inicio":"08:00",
+                                "fin":"19:00",
+                                "periodo":"15 minutos"
+                            }
+                        ],
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"20 minutos"
+                        }
+                    },
+                    "viernes":{
+                        "diurno":[
+                            {
+                                "inicio":"05:30",
+                                "fin":"08:00",
+                                "periodo":"10 minutos"
+                            },
+                            {
+                                "inicio":"08:00",
+                                "fin":"19:00",
+                                "periodo":"15 minutos"
+                            }
+                        ],
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"20 minutos"
+                        }
+                    },
+                    "sabado":{
+                        "diurno":[
+                            {
+                                "inicio":"05:30",
+                                "fin":"08:00",
+                                "periodo":"10 minutos"
+                            },
+                            {
+                                "inicio":"08:00",
+                                "fin":"19:00",
+                                "periodo":"15 minutos"
+                            }
+                        ],
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"20 minutos"
+                        }
+                    },
+                    "domingo":{
+                        "diurno":{
+                            "inicio":"05:30",
+                            "fin":"19:00",
+                            "periodo":"30 minutos"
+                        },
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"60 minutos"
+                        }
+                    },
+                    "feriados":{
+                        "diurno":{
+                            "inicio":"05:30",
+                            "fin":"19:00",
+                            "periodo":"30 minutos"
+                        },
+                        "nocturno":{
+                            "inicio":"19:00",
+                            "fin":"23:00",
+                            "periodo":"60 minutos"
+                        }
+                    }
+                }
+            }]
+        }
+        
     }
 ]
 
-ITINERARIOS PARA LA LÍNEA No. 2.- 
-Línea   2 -1
-Recorrido salida: Vivienda Yacyretá – Arroyo Porá, Ruta VI, calle Posadas, Eduardo Chamorro, Francisco Rodríguez, Carlos A. López, Avda. Gral. Bernardino Caballero, Independencia Nacional, Jorge Memmel, Carlos A. López, Capellan Molas, Gral. Artigas, Avda. Gral. Bernardino Caballero, Ruta I, calle 30 de noviembre(escuela Kennedy), camino vecinal hasta la Comisaría del barrio Mboi-Caé.----------------------------------------------
-Recorrido vuelta: Comisaría barrio Mboi-Caé, camino vecinal, Calle 30 de noviembre, Ruta I, Avda. Gral. Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Lomas Valentinas, Calle Posadas, Mcal Estigarribia, Roque Bojanovich, Lomas Valentinas, Francisco Rodríguez, Eduardo Chamorro, Calle Posadas, Ruta VI, Vivienda Yacyretá, Arroyo Pora.-----------------------------------------------------------------------------    
-Frecuencias:    Días: De lunes a sábado
-De 05:30 a 19:30 horas, cada 20 minutos.
-De 19:30 a 23:30 horas, cada 30 minutos.
-Días: Domingo y feriados
-De 05:50 a 19:50 horas, cada 40 minutos.
-
 ITINERARIOS PARA LA LÍNEA No. 3.-
-Recorrido A) Salida Santa Rosa Guabychu, Distrito de San Juan del Paraná: Km. 18, Ruta Nº 1, Avda. Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral. Bernardino  Caballero, Ruta Nº 1, Km. 18, entrada Santa Rosa de Guabychu Distrito de San Juan del Paraná.----------------------------------------------------------
-Obs.: Dos frecuencias por día.-----------------------------------------------------------------------------
-Recorrido A1) Salida Uru sapucay: Santo Domingo Centro, Las Delicias Km. 12, Ruta Nº 1, Bº Conavi Km. 10, Avda. Gral.  Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta.----------------------------------------------------------- 
-Vuelta: Salida del Distrito de Cambyreta por Ruta 14, Avda.Cnel.Luis Irrazabal, calles Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda. Gral. Bernardino Caballero, Ruta Nº 1, Conavi Km. 10, Las Delicias Km. 12, Santo Domingo Centro, Uru sapucay.------------------------------------------------------------------------------------------------------------
-Obs.: Tres frecuencias por día.----------------------------------------------------------------------------
-
-Recorrido B) Salida San Miguel Santo Domingo: Santo Domingo Centro, Las Delicias Km. 12, Ruta Nº 1, Avda. Gral. Bernardino Caballero, Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta.-----------------------------------------------------------------------------
-Vuelta:Salida del Distrito de Cambyreta por Ruta 14, Avda.Irrazabal,calles Jorge Memmel Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.B. Caballero, Ruta Nº 1, Conavi Km. 10, Las Delicias Km. 12, Santo Domingo Centro, San Miguel Santo Domingo.-----------
-Frecuencias:    Días: De lunes a sábado
-De 05:30 a 08:00 horas, cada 10 minutos.
-De 08:00 a 19:00 horas, cada 15 minutos.
-De 19:00 a 23:00 horas, cada 20 minutos. 
-Días: Domingo y  feriados
-De 05:30 a 19:00 horas, cada 30 minutos
-De 19:00 a 23:00 horas, cada 60 minutos
-
 Recorrido C) Salida Conavi Km. 10, Ruta Nº 1, Avda.Gral. Bernardino Caballero, calles Carlos A. López, Capellán Molas, Gral. Artigas, Gral. Cabañas, Avda.Cnel. Luis Irrazabal, entrada Ruta 14 con destino al Bº San Juan Distrito de Cambyreta.------------------------------- 
 Vuelta: Salida del Distrito de Cambyreta por Ruta 1, Avda.Cnel.Luis Irrazabal, calles Capellán Molas, Avda. Japón, Honorio González, Jorge Memmel, Carlos A. López, Capellán Molas, Gral. Artigas, Avda.Gral.Bernardino Caballero, Ruta Nº 1, Conavi Km. 10. 
 Frecuencias:    Días: De lunes a sábado
